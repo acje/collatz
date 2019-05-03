@@ -1,5 +1,4 @@
-# Collatz
-Collatz conjecture
+# Collatz conjecture
 Unsolved problem in mathematics: Does the Collatz sequence eventually reach 1 for all positive integer initial values?
 
 Consider the following operation on an arbitrary positive integer:
